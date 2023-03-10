@@ -1,0 +1,49 @@
+header {
+    font-size: 35px;
+    font-family: "Hiragino Kaku Gothic ProN";
+    text-align: center;
+    border-bottom: 10px white solid;
+    
+}
+
+h1 {
+    /* color: greenyellow; */
+    color: white;
+}
+
+body {
+    background-image: url("/images/gahag1.jpeg");
+    background-size: cover;
+}
+
+.containar {
+    margin: auto 150px;
+    
+}
+
+.set {
+    /* color:  rgb(27, 237, 97); */
+    color: white;
+}
+
+.set li {
+    /* color:  rgb(75, 242, 86); */
+    color: white;
+    opacity: 0.9;
+    font-size: 18px;
+}
+
+a {
+    /* color:  rgb(75, 242, 86); */
+    color: white;
+    opacity: 0.9;
+}
+
+.position {
+    float: left;
+    margin: auto 250px;
+}
+
+h3 {
+    font-size: 30px;
+}
